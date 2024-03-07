@@ -57,4 +57,8 @@ The project structure is organized as follows:
 - `package.json`: Project configuration and dependencies
 - `tsconfig.json`: TypeScript configuration
 
-You can customize the project configuration i nthe `tsconfig.json` file and adjust the server settings in the `src/index.ts` file.
+You can customize the project configuration i nthe `tsconfig.json` file and adjust the server settings in the `src/index.ts` file
+
+
+![image](https://github.com/jadavpalak/ato-tax-calculator/assets/25167163/15d508e9-6361-4e50-972e-3f5b557428db)
+
