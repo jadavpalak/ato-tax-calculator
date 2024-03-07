@@ -62,3 +62,8 @@ You can customize the project configuration i nthe `tsconfig.json` file and adju
 
 ![image](https://github.com/jadavpalak/ato-tax-calculator/assets/25167163/15d508e9-6361-4e50-972e-3f5b557428db)
 
+
+
+https://github.com/jadavpalak/ato-tax-calculator/assets/25167163/451a0f4a-3e19-4330-9eb7-778b43cc9c71
+
+
