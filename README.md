@@ -32,6 +32,11 @@ For development purposes, you can run the application using Nodemon to automatic
 ```
 npm run dev
 ```
+Execute the test cases with following command:
+
+```
+npm run test
+```
 
 This will start the server at `http://localhost:3000` by default. You can change the port in the `src/index.ts` file or create an `.env` file to manage the environt-specific variables separately.
 
